@@ -2,6 +2,9 @@
 
 The AdminScripts plugin for Moodle empowers administrators and educators with a powerful set of PHP scripts designed to streamline course management and content creation within the Moodle Learning Management System. With a focus on simplicity and efficiency, this versatile plugin offers a range of essential tools to automate common administrative tasks and enhance the overall course-building experience.
 
+**Plugin Type:**
+Local
+
 **Key Features:**
 
 - **Add Labels to Courses:** Simplify course organization by effortlessly adding labels at the start and end of each course.
@@ -29,7 +32,3 @@ The AdminScripts plugin for Moodle empowers administrators and educators with a 
 **Usage:**
 
 AdminScripts can be effortlessly integrated into your Moodle instance. Simply use the name of the file you want to use with the URL of the site.
-
-**Install:**
-
-To install the Alertify plugin in Moodle LMS, you should paste the code into the "moodlecode/local/(plugin files)" directory.
