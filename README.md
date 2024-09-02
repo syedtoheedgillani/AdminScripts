@@ -31,4 +31,4 @@ Local
 
 **Usage:**
 
-AdminScripts can be effortlessly integrated into your Moodle instance. Simply use the name of the file you want to use with the URL of the site.
+To obtain the code, feel free to reach out to me on [Upwork](https://www.upwork.com/freelancers/~0188ff047bab91ab3c). AdminScripts can be effortlessly integrated into your Moodle instance. Simply use the name of the file you want to use with the URL of the site.
